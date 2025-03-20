@@ -16,23 +16,16 @@ Education
 
 Work experience
 ======
-* Spring 2021 - Spring 2023: Teacher
+* Fall 2021 - Spring 2023: Teacher
   * Benjamin Franklin High School
   * Duties included: Teaching
   * Supervisor: Simon Birenbaum
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Board Games
 * Food Reviews
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  # * Sub-skill 2.1
 * Math
 
 Publications
