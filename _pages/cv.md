@@ -25,7 +25,7 @@ Skills
 ======
 * Board Games
 * Food Reviews
-  # * Sub-skill 2.1
+  * Sub-skill 2.1
 * Math
 
 Publications
