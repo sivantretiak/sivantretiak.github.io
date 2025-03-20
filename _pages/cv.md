@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, The Ohio State Univesrity, 2028 (expected)
+* A.B. in Mathematics, Princeton University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021 - Spring 2023: Teacher
+  * Benjamin Franklin High School
+  * Duties included: Teaching
+  * Supervisor: Simon Birenbaum
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -34,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Board Games
+* Food Reviews
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Math
 
 Publications
 ======
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Service
