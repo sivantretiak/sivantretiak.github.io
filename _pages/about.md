@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 This is Sivan Tretiak's home on the web!
-
-Lorem ipsum.
