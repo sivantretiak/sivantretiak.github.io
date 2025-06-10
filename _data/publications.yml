@@ -7,5 +7,5 @@ main:
     pdf: https://arxiv.org/pdf/2503.15294
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/halfspaces.png
     notes: In Preparation
