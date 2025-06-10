@@ -12,4 +12,4 @@ My non-academic interests include [boardgames](assets/img/tretiak.2.jpg), [poetr
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/service.md %}
