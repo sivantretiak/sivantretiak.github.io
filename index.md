@@ -8,7 +8,7 @@ Hello! I am a third-year math PhD student at The Ohio State Universtiy, where I 
 
 I completed my undergraduate degree at Princeton University under the guidance of Prof. [Ron Holzman](https://holzman.technion.ac.il). After graduating, I taught math for two years at [Benjamin Franklin High School](https://www.baltimorecityschools.org/o/bcps/page/239). Go Bayhawks!
 
-My non-academic interests include [boardgames](assets/img/tretiak.2.jpg), [poetry](assets/img/tretiak.2.jpg), and [weightlifting](assets/img/tretiak.2.jpg).
+My non-academic interests include [boardgames](assets/files/poetry.pdf), [poetry](assets/files/poetry.pdf), and [weightlifting](assets/files/poetry.pdf).
 
 {% include_relative _includes/publications.md %}
 
