@@ -12,4 +12,4 @@ My non-academic interests include [boardgames](assets/img/boardgame.jpeg), [poet
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/service.md %}
+[comment]: <> ({% include_relative _includes/service.md %})
