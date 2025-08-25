@@ -1,4 +1,4 @@
----
+<img width="1270" height="80" alt="image" src="https://github.com/user-attachments/assets/45e69fcc-2319-4c55-9a6b-9cec3dec5e7e" />---
 layout: homepage
 ---
 
@@ -13,3 +13,9 @@ My non-academic interests include [boardgames](assets/img/boardgame.jpeg), [poet
 {% include_relative _includes/publications.md %}
 
 [//]: # % include_relative _includes/service.md %
+
+## For Students
+
+Welcome MATH 1131 students! My office is MW 200. My office hours are Monday 9:40am--10:40am and 4:00pm--5:00pm, and Wedesday 12:30pm--1:30pm.
+
+Here is a link to the One Note [notebook](https://buckeyemailosu-my.sharepoint.com/:o:/g/personal/tretiak_2_buckeyemail_osu_edu/Em5eE78hjVpPrAxwBLpJoOwBEwrJENZAjLn_qcwcrWpchw?e=CLDscu) for our course, which you can access with your osu.edu account.
