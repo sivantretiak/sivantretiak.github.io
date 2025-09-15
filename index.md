@@ -16,6 +16,6 @@ My non-academic interests include [boardgames](assets/img/boardgame.jpeg), [poet
 
 ## For Students
 
-Welcome MATH 1131 students! My office is MW 200. My office hours are Monday 9:40am--10:40am and 4:00pm--5:00pm, and Wedesday 12:30pm--1:30pm.
+Welcome MATH 1131 students! My office is MW 200. My office hours are Monday 9:00am--10:00am and 4:00pm--5:00pm, and Wedesday 12:30pm--1:30pm.
 
 Here is a link to the One Note [notebook](https://buckeyemailosu-my.sharepoint.com/:o:/g/personal/tretiak_2_buckeyemail_osu_edu/Em5eE78hjVpPrAxwBLpJoOwBEwrJENZAjLn_qcwcrWpchw?e=CLDscu) for our course, which you can access with your osu.edu account.
