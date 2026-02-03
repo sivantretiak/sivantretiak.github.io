@@ -12,10 +12,10 @@ main:
 
   - title: Simplicial Covering Dimension of Extremal Concept Classes
     authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference_short: ITCS 2026
+    conference: Innovations in Theoretical Computer Science <strong>(ITCS)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.11819
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SCD_of_extremal.png
-    notes: In Preparation
+    # notes: In Preparation
