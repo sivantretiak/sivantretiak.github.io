@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2503.15294
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/halfspaces.png
+    image: ./assets/img/BU_and_LMH.png
     notes: In Preparation
 
   - title: Simplicial Covering Dimension of Extremal Concept Classes
