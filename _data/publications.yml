@@ -15,6 +15,7 @@ main:
     conference_short: ITCS 2026
     conference: Innovations in Theoretical Computer Science <strong>(ITCS)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.11819
+    video: https://www.youtube.com/watch?v=he2NRHds8Nw
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SCD_of_extremal.png
