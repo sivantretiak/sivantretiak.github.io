@@ -2,13 +2,14 @@ main:
 
   - title: Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces
     authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
-    # conference_short: MICCAI
+    conference_short: Preprint
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2503.15294
+    # video: https://www.youtube.com/watch?v=he2NRHds8Nw
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/BU_and_LMH.png
-    notes: In Preparation
+    # notes: In Preparation
 
   - title: Simplicial Covering Dimension of Extremal Concept Classes
     authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
