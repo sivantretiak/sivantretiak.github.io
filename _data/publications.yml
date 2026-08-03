@@ -1,13 +1,34 @@
 main:
+  - title: Sign-Rank, Index, and List Replicability: Connections and Separations
+    authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
+    conference_short: Preprint
+    # conference:
+    pdf: https://arxiv.org/abs/2606.18236
+    # video: 
+    # code: 
+    # bibtex: 
+    # image: 
+    # notes: In Preparation
+
+  - title: Tight List Replicability Bounds via a Novel Sphere Covering Theorem
+    authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
+    conference_short: COLT 2026
+    conference: Conference on Learning Theory <strong>(COLT)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2606.06148
+    # video: 
+    # code: 
+    # bibtex: 
+    # image: 
+    # notes: In Preparation
 
   - title: Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces
     authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
-    conference_short: Preprint
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference_short: STOC 2026
+    conference: ACM Symposium on Theory of Computing <strong>(STOC)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2503.15294
-    # video: https://www.youtube.com/watch?v=he2NRHds8Nw
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # video: 
+    # code: 
+    # bibtex: 
     image: ./assets/img/BU_and_LMH.png
     # notes: In Preparation
 
@@ -17,7 +38,7 @@ main:
     conference: Innovations in Theoretical Computer Science <strong>(ITCS)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.11819
     video: https://www.youtube.com/watch?v=he2NRHds8Nw
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # code: 
+    # bibtex: 
     image: ./assets/img/SCD_of_extremal.png
     # notes: In Preparation
