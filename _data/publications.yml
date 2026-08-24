@@ -1,14 +1,14 @@
 main:
-  - title: Sign-Rank, Index, and List Replicability: Connections and Separations
-    authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
-    conference_short: Preprint
+#  - title: Sign-Rank, Index, and List Replicability: Connections and Separations
+#    authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
+#    conference_short: Preprint
     # conference:
-    pdf: https://arxiv.org/abs/2606.18236
+#    pdf: https://arxiv.org/abs/2606.18236
     # video: 
     # code: 
     # bibtex: 
     # image: 
-    notes: In Preparation
+#    notes: In Preparation
 
   - title: Tight List Replicability Bounds via a Novel Sphere Covering Theorem
     authors: Ari Blondal, Hamed Hatami, Pooya Hatami, Chavdar Lalov, Sivan Tretiak
@@ -18,7 +18,7 @@ main:
     # video: 
     # code: 
     # bibtex: 
-    # image: 
+    image: ./assets/img/U_A_open_cover.png
     # notes: In Preparation
 
   - title: Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces
