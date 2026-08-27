@@ -17,3 +17,11 @@ My non-academic interests include [boardgames](assets/img/boardgame.jpeg), [poet
 ## For Students
 
 Welcome MATH 1125 students! My office is MW 200, but shared office hours are held in CH 142. See the schedule below:
+| Day/Time | Mon | Tue | Wed | Thu |
+| -------- | ------- | ------- | ------- | ------- |
+| 10:20am | Sivan | Katie | Sivan | Nik |
+| 11:30am |  |  | Nik |  |
+| 12:40pm | Carolyn | Anu | Carolyn | Anu |
+| 1:50pm |  | Avery |  | Avery |
+| 3:00pm | Alex |  | Alex | Katie |
+| 4:10pm | Jenny |  |  | Jenny |
